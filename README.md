@@ -1,4 +1,6 @@
-# dwains-lovelace-dashboard
+# dwains-lovelace-dashboard汉化版
+
+汉化作者：知识便利贴（[bilibili](https://space.bilibili.com/629515024?spm_id_from=333.1007.0.0)）
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
